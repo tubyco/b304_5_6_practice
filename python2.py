@@ -1,0 +1,1 @@
+def 'gel guzelim gonlume gel'
